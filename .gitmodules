@@ -1,0 +1,18 @@
+[submodule "ironshell.github.io"]
+	path = ironshell.github.io
+	url = https://github.com/IronShell/ironshell.github.io.git
+[submodule "irony"]
+	path = irony
+	url = https://github.com/IronShell/irony.git
+[submodule "ise"]
+	path = ise
+	url = https://github.com/IronShell/ironshell-ise.git
+[submodule "core"]
+	path = core
+	url = https://github.com/IronShell/ironshell-core.git
+[submodule "console"]
+	path = console
+	url = https://github.com/IronShell/ironshell-console.git
+[submodule "github.io"]
+	path = github.io
+	url = https://github.com/IronShell/ironshell.github.io.git
